@@ -1,4 +1,4 @@
-Anyone can now run KataGo on OGS online-go.com  with Google Colab for Free. Please use below colab files. 
+Anyone can now run KataGo on OGS online-go.com  with Google Colab for Free. Please use below colab files.
 
 https://colab.research.google.com/gist/JBX2010/2f9e4284ebbdd546987a76fbdb07540c/katago_cuda_v1-0.ipynb?authuser=2
 
@@ -21,3 +21,8 @@ https://github.com/lightvector/KataGo
 
 Can also run bot on yikeweiqi.com. Please download config.json file to your local pc and update with your yikeweiqi.com account name and password and upload to Colab folder /KataGo/cpp/yk-linker/
 https://home.yikeweiqi.com/ 
+
+Benefits:
+- Free GPU
+- Fast speed
+- Fast setup
